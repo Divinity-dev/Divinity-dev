@@ -6,7 +6,7 @@
 
 ## Glad to see you here! &nbsp; <a href="https://visitorbadge.io/status?path=Caren%20Koroeny"><img src="https://api.visitorbadge.io/api/visitors?path=Caren%20Koroeny&label=Visitors&countColor=%23263759" /></a>
 
-I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
+I am a full-stack software engineer and writer. I love programming and reading.
 
 As a software engineer, I enjoy solving challenges with simple codes. anything to make life easier for mankind.
 
